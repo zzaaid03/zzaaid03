@@ -54,7 +54,16 @@
         <img src="https://img.shields.io/badge/DB%20Transport%20REST-CC0000?logo=deutschebahn&logoColor=white" alt="DB Transport REST">
       </p>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/zzaaid03/Brewit">☕ Brewit</a></h3>
+      <p>Manual coffee recipe generator for pourover workflows. Takes bean profile and taste goal, then returns a tuned brew recipe with adjusted ratio/temperature, timed pour schedule, and troubleshooting guidance. Includes coffee inspiration cards from TheMealDB API.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite">
+        <img src="https://img.shields.io/badge/TheMealDB%20API-0F766E?logo=api&logoColor=white" alt="TheMealDB API">
+      </p>
+    </td>
   </tr>
 </table>
 
