@@ -45,7 +45,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/zzaaid03/wo2go">🚆 wo2go</a></h3>
-      <p>Train reachability web app for Saarbrücken Hbf. Fetches the next 12 hours of departures and aggregates unique direct destinations with fastest travel time, connection count, and train-type breakdown. Includes Deutschlandticket-focused filters (regional-only, major stations) and a German/English UI with persisted language preference.</p>
+      <p>Train reachability web app for Germany, starting from any selected station. Fetches the next 12 hours of departures and aggregates unique direct destinations with fastest travel time, connection count, and train-type breakdown. Includes Deutschlandticket-focused filters (regional-only, major stations) and a German/English UI with persisted language preference.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
