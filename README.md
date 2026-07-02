@@ -34,17 +34,6 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/zzaaid03/Uni-Plan">📅 Uni-Plan</a></h3>
-      <p>Semester planning tool for university students. Add courses, detect schedule conflicts before registration, and predict your GPA. Full-stack with REST API.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
-        <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3><a href="https://github.com/zzaaid03/wo2go">🚆 wo2go</a></h3>
       <p>Train reachability web app for Germany, starting from any selected station. Fetches the next 12 hours of departures and aggregates unique direct destinations with fastest travel time, connection count, and train-type breakdown. Includes Deutschlandticket-focused filters (regional-only, major stations) and a German/English UI with persisted language preference.</p>
       <p>
@@ -55,6 +44,8 @@
         <img src="https://img.shields.io/badge/DB%20Transport%20REST-CC0000?logo=deutschebahn&logoColor=white" alt="DB Transport REST">
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/zzaaid03/Brewit">☕ Brewit</a></h3>
       <p>Manual coffee recipe generator for pourover workflows. Takes bean profile and taste goal, then returns a tuned brew recipe with adjusted ratio/temperature, timed pour schedule, and troubleshooting guidance. Includes coffee inspiration cards from TheMealDB API.</p>
@@ -65,8 +56,6 @@
         <img src="https://img.shields.io/badge/TheMealDB%20API-0F766E?logo=api&logoColor=white" alt="TheMealDB API">
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/zzaaid03/life-os">🌱 Life OS</a></h3>
       <p>Open-source life management app built with Flutter. Combines habit tracking, journaling, goal setting, and personal analytics into one experience. Offline-first with local SQLite (Drift) storage and real-time cloud sync via Supabase. Email/password and Google sign-in.</p>
@@ -78,6 +67,8 @@
         <img src="https://img.shields.io/badge/Drift%20(SQLite)-00BCD4?logo=sqlite&logoColor=white" alt="Drift">
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/zzaaid03/mensa-management-system">🍽️ UniMensa</a></h3>
       <p>University mensa (cafeteria) web application. Meal nutrition information, pre-orders, table reservations, and a user profile system. Team project split across dedicated frontend, backend, and Firebase branches merged into main via pull requests.</p>
@@ -88,8 +79,6 @@
         <img src="https://img.shields.io/badge/Team%20Project-FF6F00?logo=githubactions&logoColor=white" alt="Team Project">
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/zzaaid03/jo_phone">📱 JO_PHONE</a></h3>
       <p>Console-based management system for a Jordanian mobile phone shop. Manages customers, hardware inventory, tariffs, contracts, and sales with validation, business rules (overselling blocked, price snapshots), and four business reports. Python standard library only.</p>
@@ -98,15 +87,6 @@
         <img src="https://img.shields.io/badge/Layered%20Architecture-4A90D9?logo=archlinux&logoColor=white" alt="Layered Architecture">
         <img src="https://img.shields.io/badge/JSON%20Persistence-000000?logo=json&logoColor=white" alt="JSON">
         <img src="https://img.shields.io/badge/Unittest-3776AB?logo=python&logoColor=white" alt="Unittest">
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/zzaaid03/mini-compiler">🔧 Mini Compiler</a></h3>
-      <p>A simple compiler for a C-like language subset implemented using Flex and Bison. Supports arithmetic, relational, and logical operations, if/while statements, and direct execution.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C">
-        <img src="https://img.shields.io/badge/Flex-000000?logo=gnu&logoColor=white" alt="Flex">
-        <img src="https://img.shields.io/badge/Bison-000000?logo=gnu&logoColor=white" alt="Bison">
       </p>
     </td>
   </tr>
