@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Zaid 👋</h1>
 
 <p align="center">
-  <strong>Android Developer</strong> · Saarbrücken, Germany<br>
-  I build mobile apps with Kotlin and Jetpack Compose, and I integrate LLMs when they make the product genuinely better, not for the sake of it.
+  <strong>Mobile &amp; web developer</strong> · Saarbrücken, Germany<br>
+  I build mobile apps and web products end-to-end — Android with Kotlin and Jetpack Compose, cross-platform with Flutter, and full-stack web with React and Next.js. I integrate LLMs only when they measurably improve a real user outcome — LAZ Store runs multi-model AI part identification in production. Final-year Informatik student at HTW Saarland, looking for a Pflichtpraktikum from September 2026.
 </p>
 
 <p align="center">
