@@ -110,15 +110,6 @@
 
 ---
 
-### ⚡ Tools and workflow
+### ⚡ How I use AI tooling
 
-I spend a lot of time evaluating new dev tooling, especially around AI-assisted development. I have worked with **Claude Code**, **Cursor**, **Windsurf**, and **GitHub Copilot** across real projects, not just demos. I pick the tool that fits the task:
-
-| Tool | How I use it |
-|------|-------------|
-| 🤖 Claude Code | Agentic refactors, multi-file changes, complex reasoning |
-| ✏️ Cursor | Fast iteration, inline completions, codebase chat |
-| 🌊 Windsurf | Flow-based development, exploration |
-| 🧑‍✈️ GitHub Copilot | Quick boilerplate, tab completions |
-
-I stay current with new model releases and integrate them into my workflow as soon as they ship. The AI features in LAZ Store (image-based part identification, multi-model chat via OpenRouter) came out of this same mindset: treat LLMs as practical tools, benchmark them against each other, and ship the one that actually works.
+I integrate LLMs where they measurably improve a real outcome, not by default. Day-to-day I use **Claude Code** for agentic refactors and multi-file changes, and lighter tools (Cursor, Copilot) for fast iteration. The AI features in LAZ Store — image-based part identification, multi-model chat via OpenRouter — came out of the same principle: benchmark the models, ship the one that actually works.
