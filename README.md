@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Mobile &amp; web developer</strong> · Saarbrücken, Germany<br>
-  I build mobile apps and web products end-to-end — Android with Kotlin and Jetpack Compose, cross-platform with Flutter, and full-stack web with React and Next.js. I integrate LLMs only when they measurably improve a real user outcome — LAZ Store runs multi-model AI part identification in production. Final-year Informatik student at HTW Saarland, looking for a Pflichtpraktikum from September 2026.
+  I build mobile apps and web products end-to-end — Android with Kotlin and Jetpack Compose, cross-platform with Flutter, and full-stack web with React and Next.js. I integrate LLMs only when they measurably improve a real user outcome — LAZ Store runs multi-model AI part identification in production. Final-year Informatik student at HTW Saarland, looking for a Pflichtpraktikum from October 2026.
 </p>
 
 <p align="center">
